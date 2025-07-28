@@ -3,9 +3,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-- 🌱 I’m currently learning **Node.js, System Design**
-- 💬 Ask me about **Java, React, MongoDB**
-- 📫 How to reach me: **[LinkedIn](your-link)**
+- 🌱 I’m currently learning **Node.js, Express.Js and MongoDB**
+- 💬 Ask me about **Java, React, MySql**
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/priya-verma-954568293/)**
 - ⚡ Fun fact: *I often debug faster with coffee ☕*
 
 ---
