@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Priya</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 - 🌱 I’m currently learning **Node.js, Express.Js and MongoDB**
 - 💬 Ask me about **Java, React, MySql**
