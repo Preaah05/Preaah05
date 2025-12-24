@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priya</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
-- 🌱 I’m currently learning **Node.js, Express.Js and MongoDB**
+- 🌱 I’m currently building projects on **MERN Stack**
 - 💬 Ask me about **Java, React, MySql**
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/priya-verma-954568293/)**
 - ⚡ Fun fact: *I often debug faster with coffee ☕*
