@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full-stack developer from India</h3>
 
 - 🌱 I’m currently building projects on **MERN Stack**
-- 💬 Ask me about **Fullstack Development **
+- 💬 Ask me about **Fullstack Development**
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/priya-verma-954568293/)**
 - ⚡ Fun fact: *I often debug faster with coffee ☕*
 
