@@ -89,67 +89,11 @@ Aspiring Sofware Developer | B.Tech CSE Final Year Student | Problem Solver
 
 ---
 
-## 🚀 Featured Projects
-
-### 💰 Expense Tracker
-
-A Full Stack Expense Management Application
-
-#### Features
-
-- User Authentication
-- Add/Edit/Delete Expenses
-- Category Based Tracking
-- Monthly Expense Analysis
-- PostgreSQL Database
-
-#### Tech Stack
-
-React • TypeScript • Node.js • Express • PostgreSQL
-
----
-
-### 🛒 E-Commerce Website
-
-#### Features
-
-- Product Listing
-- Cart Management
-- Authentication
-- Responsive Design
-
-#### Tech Stack
-
-React • Node.js • MongoDB
-
----
-
-### 🎬 Recommendation System
-
-Machine Learning based recommendation engine.
-
-#### Tech Stack
-
-Python • Machine Learning • Data Analysis
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Preaah05&show_icons=true&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact"/>
-
-</p>
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Preaah05"/>
 
 </p>
 
@@ -157,13 +101,11 @@ Python • Machine Learning • Data Analysis
 
 ## 🏆 Achievements
 
-🏅 Solved 500+ DSA Problems
+🏅 Solved 1000+ DSA Problems across Leetcode, Codeforces, GeeksForGeeks etc.
 
-🏅 CodeChef Rating: 1300+
+🏅 CodeChef Rating: 1500+
 
-🏅 Amazon Internship Experience
-
-🏅 Built Multiple Full Stack Projects
+🏅 Former SDE Intern @Amazon
 
 ---
 
